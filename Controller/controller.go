@@ -15,7 +15,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const connectString = "mongodb+srv://vivesh:Vivesh4153@cluster.bi0vy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster"
+const connectString = "mongodb+srv://vivesh:<Password>@cluster.bi0vy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster"
 const dbName = "RankList"
 const colName = "EntList"
 
